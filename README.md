@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Checkout my most recent projects: https://devpost.com/Nate8888
+
 <!--
 **Nate8888/Nate8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
