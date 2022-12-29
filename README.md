@@ -31,7 +31,7 @@ Hi there! I'm Nathan, a Computer Science student at the University of Central Fl
 ![AWS](https://img.shields.io/badge/-AWS-%232C72C7?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Linode](https://img.shields.io/badge/-Linode-%2300AEEF?style=flat-square&logo=linode&logoColor=ffffff)
 
-## New Technologies I want to learn
+## Tech I want to learn
 - Go (🏆 #1)
 - Solidity (🥈 #2)
 - GraphQL
