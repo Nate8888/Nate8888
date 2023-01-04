@@ -46,6 +46,9 @@ Hi there! My name is Nathan Kurelo Wilk. I'm a recent Computer Science graduate 
 - Blockchain and Distributed Systems
 - Frontend Development
 
-## Project Portfolio
-
+## Hackathon Project Portfolio
 [Devpost Project Portfolio](https://devpost.com/Nate8888)
+
+## Other Links
+[Contact me on LinkedIn](https://www.linkedin.com/in/natekw/) </br>
+[Follow me on Medium (Under Development)](https://medium.com/@wilknathan)
