@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! My name is Nathan Kurelo Wilk. I'm a recent Computer Science graduate from the University of Central Florida. I'm always looking for opportunities to learn and work on new projects. Here is some quick information about my technical skills
+Hi there! My name is Nathan Kurelo Wilk. I'm set to graduate in Dec. 2024 with a Master of Science degree in FinTech from the University of Central Florida. I'm always looking for opportunities to learn and work on new projects. Here is some quick information about my technical skills
 
 ## Tech I'm constantly using
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
